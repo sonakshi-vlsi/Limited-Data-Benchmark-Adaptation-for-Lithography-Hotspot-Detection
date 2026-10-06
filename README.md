@@ -176,15 +176,7 @@ Python · TensorFlow / Keras · NumPy · Google Colab
 4. Results are written per benchmark, budget, seed and approach.
 
 ---
-
-## Team
-
 Course project for **AI-ML for IC Design (Digital Assignment 2)**, VIT Chennai.
-
-- **Sonakshi Agrawal**
-- Edupuganti Vyshnavi
-- Manda Krishna Hriday
-- Abhinav M A
 
 ## Reference
 
